@@ -28,8 +28,11 @@ body {
     color: var(--green);
     display: flex;
     flex-direction: column;
+    
 
 }
+
+
 /* h1 {
     position: absolute;
     top: 10rem;
@@ -222,7 +225,7 @@ position: absolute;
     .pista1{
         position: absolute;
         top: 2rem;
-        left: 6rem;
+        left: 8rem;
         height: 6rem;
         width: 10rem;
         
@@ -231,7 +234,7 @@ position: absolute;
      .pista2{
         position: absolute;
         top: 5rem;
-        left: 3rem;
+        left: 5rem;
         height: 3rem;
         width:20rem;
         
@@ -240,7 +243,7 @@ position: absolute;
      .pista3{
 
         position: absolute;
-        
+        left: 2rem;
         top: 8rem;
         height: 3rem;
         width: 30rem;
