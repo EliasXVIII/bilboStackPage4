@@ -102,7 +102,7 @@ position: absolute;
  */
  .pista1{
     position: absolute;
-    top: 25rem;
+    top: 27rem;
     height: 6rem;
     width: 10rem;
     
@@ -110,7 +110,7 @@ position: absolute;
 
  .pista2{
     position: absolute;
-    top: 28rem;
+    top: 30rem;
     height: 3rem;
     width:20rem;
     
@@ -118,9 +118,9 @@ position: absolute;
 
  .pista3{
     position: absolute;
-    top: 31rem;
+    top: 33rem;
     height: 3rem;
-    width: 20rem;
+    width: 23rem;
     
  }
  .btn{
