@@ -232,7 +232,7 @@ position: absolute;
     .pista1{
         position: absolute;
         top: 2rem;
-        left: 8rem;
+        left: 12rem;
         height: 6rem;
         width: 10rem;
         
@@ -241,7 +241,7 @@ position: absolute;
      .pista2{
         position: absolute;
         top: 5rem;
-        left: 5rem;
+        left: 8rem;
         height: 3rem;
         width:20rem;
         
@@ -250,7 +250,7 @@ position: absolute;
      .pista3{
 
         position: absolute;
-        left: 2rem;
+        left: 5rem;
         top: 8rem;
         height: 3rem;
         width: 30rem;
